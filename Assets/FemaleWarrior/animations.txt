@@ -1,0 +1,16 @@
+walk: 0-30
+run: 31-51
+stand: 52-97
+idle: 98-328
+jump: 329-396
+ready: 397-427
+attack1: 442-472
+attack2: 487-522
+attack3: 523-585
+hit1: 586-601
+hit2: 602-616
+death: 617-703
+swim: 704-754
+climb: 755-806
+stand2: 808-851
+idle2: 852-983
